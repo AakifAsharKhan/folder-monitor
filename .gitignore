@@ -1,0 +1,26 @@
+# Ignore credentials file
+credentials.json
+
+# Ignore log files
+*.log
+
+# Ignore system files and settings
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache and environment folders
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pydist
+.env/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# Ignore IDE settings
+.vscode/
+.idea/
